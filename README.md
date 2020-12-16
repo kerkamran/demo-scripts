@@ -4,5 +4,4 @@ Hello there!
 
 This is tutorial
 
-1. Open index.html in your browser
 
