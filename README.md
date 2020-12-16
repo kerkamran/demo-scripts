@@ -4,4 +4,15 @@ Hello there!
 
 This is tutorial
 
+<<<<<<< HEAD
+This is tutorial
+This is tutorial
+This is tutorial
+This is tutorial
+This is tutorial
+This is tutorial
+This is tutorial
+This is tutorial
+=======
 
+>>>>>>> main
