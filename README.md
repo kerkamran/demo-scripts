@@ -11,8 +11,13 @@ This is tutorial
 This is tutorial
 This is tutorial
 =======
+<<<<<<< HEAD
 Bye
 Bye
 Bye
 Bye
+=======
+Good old days!
+
+>>>>>>> main
 >>>>>>> main
